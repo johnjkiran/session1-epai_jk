@@ -6,7 +6,7 @@ def myFunc():
       for j in range(i+1,n+1):
           a=string[i:j]
           arr.append(a)
-	print(arr)
+    print(arr)
 
 def my_Func():
     pass
