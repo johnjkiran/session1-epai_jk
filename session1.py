@@ -33,4 +33,3 @@ class Rectangle:
     def __lt__(self, other):
         if isinstance(other, Rectangle):
             return self.area() == other.area()
-        
